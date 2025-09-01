@@ -1,7 +1,6 @@
 # Task Management Android Application Project 2024-2025
 
-This application is an exercise for the Mobile Application Development course at Harokopio
-University of Athens, Dept. of Informatics and Telematics.
+This application is an exercise for the **Mobile Application Development** course at [Harokopio University of Athens – Dept. of Informatics and Telematics](https://www.dit.hua.gr).
 
 ## Overview
 This Android application is designed to help users manage their tasks efficiently.
@@ -69,8 +68,11 @@ Incomplete tasks can be exported to an HTML file located in the Downloads folder
 ### Google Maps Integration
 If a task includes a location, users can view it on Google Maps directly from the app.
 
+## Author
+
+- **Name**: Exarchou Athos
+- **Student ID**: it2022134
+- **Email**: it2022134@hua.gr, athosexarhou@gmail.com
+
 ## License
 This project is licensed under the MIT License.
-
-## Author
-it2022134@hua.gr Exarchou Athos
